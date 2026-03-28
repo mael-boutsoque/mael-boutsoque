@@ -26,6 +26,21 @@ I combine technical expertise in embedded programming (C, C++, Assembly) with a 
 
 ---
 
+## Experience
+
+### Hardware & Embedded Software Intern — **Quandela**
+*March 2026 – August 2026 | Massy, France*
+
+Quantum computing company — QPU Prototyping team
+
+- **Microcontroller Migration:** Ported embedded C codebase from Atmel AVR to STM32 architecture for quantum computer control systems
+- **Real-Time Systems:** Implemented FreeRTOS on STM32 for temperature PID control loops
+- **Connectivity:** Developed and tested Ethernet communication capabilities for distributed sensor networks
+- **Hardware Design:** Designed PCBs using Altium Designer for optical system control cards (sensors, actuators, ADC/DAC)
+- **Knowledge Transfer:** Created documentation and conducted training sessions for the electronics team on STM32 platform
+
+---
+
 ## Technical Skills
 
 ### Programming Languages
