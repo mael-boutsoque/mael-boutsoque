@@ -13,7 +13,6 @@ I am particularly interested in low-level programming (C, Assembly), hardware de
 * Currently in an Erasmus program for my last year of master:
     * **ENSEM / Mines Nancy** (Digital & Embedded Systems Engineering)
     * **l'ETSEIB (UPC), Barcelona** (Embedded Systems Engineering)
-* Looking for a **6-month internship** starting from mid-February 2026.
 
 ## 💻 Technical Skills
 
@@ -25,7 +24,7 @@ I am particularly interested in low-level programming (C, Assembly), hardware de
 * **Languages:** C, C++, Assembly (ARM/x86)
 * **RTOS & Frameworks:** FreeRTOS, Arduino, Linux, Quartus (FPGA)
 * **Microcontrollers:** ESP32, ARM Cortex-M, AVR (Arduino)
-* **Communication Buses:** I2C, SPI, UART
+* **Communication Buses:** I2C, SPI, UART, RS485, Ethernet,...
     </td>
     <td valign="top" width="50%">
       
