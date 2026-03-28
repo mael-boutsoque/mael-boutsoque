@@ -23,7 +23,7 @@ I am particularly interested in low-level programming (C, Assembly), hardware de
 ### Embedded Systems
 * **Languages:** C, C++, Assembly (ARM/x86)
 * **RTOS & Frameworks:** FreeRTOS, Arduino, Linux, Quartus (FPGA)
-* **Microcontrollers:** ESP32, ARM Cortex-M, AVR (Arduino)
+* **Microcontrollers:** ESP32, ARM Cortex-M, AVR, STM32
 * **Communication Buses:** I2C, SPI, UART, RS485, Ethernet,...
     </td>
     <td valign="top" width="50%">
